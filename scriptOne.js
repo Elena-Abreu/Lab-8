@@ -110,8 +110,22 @@ var num = 50;
 
 if ( num >0 && num <100 ) 
 { 
-    console.log("The number is within range");}
+    console.log("The number is within range");} 
 
 
+var hasCar = true;
+var hasLicense = true;
+var hasInsurance = true; 
+
+if ( hasCar && hasLicense && hasInsurance  ) 
+    { 
+        console.log("You can drive legally");
+    }  
+
+
+        else {
+            
+            console.log("Check your driving eligibility");
+        } 
 
 
