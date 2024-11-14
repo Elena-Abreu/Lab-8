@@ -1,10 +1,4 @@
-var firstname;  
-var firstname = "Elena";
-console.log(firstname);
 
-var age; 
-var age = 18;
-console.log(age);
 
 
 let pet = false;
@@ -95,3 +89,19 @@ let a = 100;
 let b = 50;  
 console.log (a<=b) 
 //false
+
+
+
+var firstname = "Elena";
+
+
+
+var age = 18;
+
+
+
+var lastname = "Abreu";
+
+console.log("Hello,",firstname, lastname, "you are", age, "years old."  )
+
+
