@@ -34,4 +34,29 @@ if (isMember = true)
     { 
         answer = "Member discount applied"; 
         console.log(answer);
+    }  
+
+
+     
+    
+    var startValue = 50; 
+    
+    
+    if (startValue > 0) 
+    { 
+        answer = "positive"; 
+        console.log(answer);
     } 
+    
+    else if (startValue = 0) 
+    { 
+        answer = "zero"; 
+        console.log(answer);
+    } 
+    
+    else if ( startValue < 0) 
+        { 
+            answer = "negative"; 
+            console.log(answer);
+        }
+    
