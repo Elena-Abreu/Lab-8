@@ -138,4 +138,27 @@ if ( num %2 == 0 )
 }
 else {
     console.log("The number is odd")
-}
+} 
+
+
+var score = 85; 
+
+
+if (score > 90) 
+{ 
+    
+    console.log("Grade A");
+} 
+
+else if ( score >80 ) 
+{ 
+ 
+    console.log("Grade B")
+} 
+
+else if ( score >89 ) 
+    { 
+        
+        console.log("Grade C")
+    }
+
