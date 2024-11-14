@@ -106,26 +106,36 @@ console.log("Hello,",firstname, lastname, "you are", age, "years old."  )
 
 
 
-var num = 50; 
+// var num = 50; 
 
-if ( num >0 && num <100 ) 
-{ 
-    console.log("The number is within range");} 
-
-
-var hasCar = true;
-var hasLicense = true;
-var hasInsurance = true; 
-
-if ( hasCar && hasLicense && hasInsurance  ) 
-    { 
-        console.log("You can drive legally");
-    }  
+// if ( num >0 && num <100 ) 
+// { 
+//     console.log("The number is within range");} 
 
 
-        else {
+// var hasCar = true;
+// var hasLicense = true;
+// var hasInsurance = true; 
+
+// if ( hasCar && hasLicense && hasInsurance  ) 
+//     { 
+//         console.log("You can drive legally");
+//     }  
+
+
+//         else {
             
-            console.log("Check your driving eligibility");
-        } 
+//             console.log("Check your driving eligibility");
+//         } 
 
 
+
+var num = 21;  
+
+if ( num %2 == 0 )
+{ 
+    console.log("The number is even")
+}
+else {
+    console.log("The number is odd")
+}
