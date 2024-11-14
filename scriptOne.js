@@ -85,9 +85,9 @@ if (isMember = true)
 //console.log (a>=b) 
 //true  
 
-let a = 100; 
-let b = 50;  
-console.log (a<=b) 
+//let a = 100; 
+//let b = 50;  
+//console.log (a<=b) 
 //false
 
 
@@ -103,5 +103,15 @@ var age = 18;
 var lastname = "Abreu";
 
 console.log("Hello,",firstname, lastname, "you are", age, "years old."  )
+
+
+
+var num = 50; 
+
+if ( num >0 && num <100 ) 
+{ 
+    console.log("The number is within range");}
+
+
 
 
