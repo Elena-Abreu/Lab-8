@@ -27,3 +27,11 @@ if (RollNumber > 10)
     console.log(answer);
 } 
 
+var isMember; 
+var isMember =true 
+
+if (isMember = true) 
+    { 
+        answer = "Member discount applied"; 
+        console.log(answer);
+    } 
