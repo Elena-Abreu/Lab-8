@@ -60,3 +60,38 @@ if (isMember = true)
             console.log(answer);
         }
     
+
+//let a = 100; 
+//let b = 50;  
+//console.log (a==b) 
+//false 
+
+//let a = 100; 
+//let b = 50;  
+//console.log (a===b)  
+//false 
+
+//let a = 100; 
+//let b = 50;  
+//console.log (a!=b)  
+//true 
+
+//let a = 100; 
+//let b = 50;  
+//console.log (a>b) 
+//true 
+
+//let a = 100; 
+//let b = 50;  
+//console.log (a<b)   
+//false
+
+//let a = 100; 
+//let b = 50;  
+//console.log (a>=b) 
+//true  
+
+let a = 100; 
+let b = 50;  
+console.log (a<=b) 
+//false
